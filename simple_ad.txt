@@ -1,0 +1,9 @@
+# Ad filter list by Disconnect
+# License: GPLv3
+
+api.steampowered.com
+^.steampowered.com
+ipv6check-http.steamcontent.com
+^-fra1.cm.steampowered.com
+^-sto1.cm.steampowered.com
+store.steampowered.com
